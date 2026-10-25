@@ -14160,7 +14160,13 @@
    "body_chars": 1681,
    "sha256_16": "08605aa86ad16aba",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gwangju-presbyopia-17",
+     "date": "2026-10-25",
+     "note": "노안 돋보기 도수 반복 상향 상황에서 레이저·렌즈 교정 상담 시점을 정리한 새 각도"
+    }
+   ]
   }
  ]
 }
