@@ -498,7 +498,13 @@
    "body_chars": 2180,
    "sha256_16": "ba15a0c30765eafd",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gwangju-cataract-19",
+     "date": "2026-10-26",
+     "note": "백내장 수술 후 잔여 굴절 오차·목표 거리·LAL 사후 조정 옵션 각도(노안/백내장 구분은 기존 글과 겹쳐 제외)"
+    }
+   ]
   },
   {
    "id": "041",
