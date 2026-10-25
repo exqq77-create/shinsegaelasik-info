@@ -1932,7 +1932,13 @@
    "body_chars": 1800,
    "sha256_16": "05a0b5e5b9d4ef31",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gwangju-lasik-19",
+     "date": "2026-10-26",
+     "note": "운동·야외활동 생활 패턴 기준 라식 상담 질문 각도"
+    }
+   ]
   },
   {
    "id": "151",
