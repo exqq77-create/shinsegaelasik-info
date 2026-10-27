@@ -7644,7 +7644,13 @@
    "body_chars": 1457,
    "sha256_16": "eef0ef54eec83d1d",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gwangju-dry-eye-24",
+     "date": "2026-10-27",
+     "note": "광주안구건조증 원문(601)의 눈물 부족·증발, 눈 청소·눈꺼풀 염증 관리 사실에서 눈화장·클렌징 점검 각도로 재구성; gwangju-reoperation은 원문 없어 건너뜀"
+    }
+   ]
   },
   {
    "id": "602",
