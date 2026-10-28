@@ -12822,7 +12822,13 @@
    "body_chars": 2006,
    "sha256_16": "cae5c36915cb6136",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gwangju-smile-29",
+     "date": "2026-10-29",
+     "note": "스마일라식 후 운동·수영 복귀"
+    }
+   ]
   },
   {
    "id": "993",
@@ -12918,7 +12924,13 @@
    "body_chars": 1337,
    "sha256_16": "9e8a1ce875ef3bb9",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gwangju-retina-glaucoma-28",
+     "date": "2026-10-29",
+     "note": "혈압·혈압약 복용 시 녹내장 검진 안내"
+    }
+   ]
   },
   {
    "id": "1001",
