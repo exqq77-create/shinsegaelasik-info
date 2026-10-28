@@ -5658,7 +5658,13 @@
    "body_chars": 1648,
    "sha256_16": "b61e30a633e21353",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gwangju-presbyopia-29",
+     "date": "2026-10-29",
+     "note": "일반상식 보강 각도; 916은 라식/라섹 주제라 제외"
+    }
+   ]
   },
   {
    "id": "441",
@@ -6606,7 +6612,13 @@
    "body_chars": 1260,
    "sha256_16": "5126e9b7b7e1dc81",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gwangju-icl-29",
+     "date": "2026-10-29",
+     "note": "일반상식 보강 각도; 916은 라식/라섹 주제라 제외"
+    }
+   ]
   },
   {
    "id": "515",
