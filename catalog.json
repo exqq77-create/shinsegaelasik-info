@@ -14663,7 +14663,13 @@
    "body_chars": 2321,
    "sha256_16": "d5a6a93aee9d9b6e",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gwangju-smile-32",
+     "date": "2026-10-29",
+     "note": "시력교정 검진 전 콘택트렌즈 중단 이유·기간 각도(원문의 렌즈 중단 사실만 사용, 스마일프로·회복·건조증 주장 제외); retina-glaucoma 후보 원문이 시력교정 내용이라 smile 접두어 사용"
+    }
+   ]
   },
   {
    "id": "1112",
